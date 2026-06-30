@@ -1,0 +1,7 @@
+# Ignore everything in Desktop by default
+*
+!.gitignore
+
+# Allow the py-final project
+!/py-final/
+!/py-final/**
